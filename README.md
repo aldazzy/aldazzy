@@ -1,64 +1,68 @@
-<h1 align="center">Hey there! 👋😉 I'm Albert Mbago</h1>
-<h3 align="center">🚀 Full-Stack Developer | Dreaming, Building, and Scaling Digital Solutions</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=4000&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=70&lines=Hey+there%2C+I'm+Albert+Mbago!;Fullstack+Developer+Crafting+Tomorrow!;Code+with+Purpose%2C+Design+with+Heart!">
+</h1>
 
 ---
 
-### 🧠 About Me
+# 🚀 About Me
 
-> _"Code is poetry when written with purpose."_
+<p align="center">
+I'm <b><span style="color:#00f0ff;">Albert Mbago</span></b> — a full-stack developer passionate about <b>building futuristic, scalable digital solutions</b>.  
+I believe software is not just built — it’s crafted with **care**, **precision**, and **vision**.  
+</p>
 
-Hi, I’m **Albert Mbago**, a full-stack developer passionate about building **thoughtful**, **scalable**, and **impactful** digital experiences.  
-From **powerful backend systems** to **polished user interfaces**, I believe that great software doesn't just work — it feels *natural* and *meaningful*.
-
-- 🌱 Currently diving deeper into **AI-powered applications**
-- 🔭 Building: **Smart Mboka** (AI-enhanced Classified Platform)
-- 💬 Ask me about: **Web Development, APIs, Problem Solving**
-- 📫 How to reach me: **albertmbago892@gmail.com**
+- 🌍 Based in: **Kenya**
+- 🛠️ Expertise: **Web Development | Mobile Apps | API Integrations**
+- 🌱 Currently expanding: **AI-Enhanced Systems**
+- 🛠 Currently Building: **Smart Mboka** (AI-Powered Classifieds)
+- 💬 Ask me about: **Modern Tech Stacks, AI in Web, UI/UX trends**
+- 📫 Email me at: **albertmbago892@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+# 🧰 Tech Toolbox
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nodejs,flutter,dart,python,php,laravel,go,mysql,sqlite,firebase,docker,git,tailwind,bootstrap,figma,androidstudio" alt="Tech Stack" width="800"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,flutter,dart,python,nodejs,php,laravel,mysql,sqlite,firebase,docker,git,github,figma,linux,androidstudio" width="850" />
 </div>
 
 ---
 
-### 🌟 Let's Connect!
+# 🌟 Quick Links
 
 <div align="center">
   <a href="https://www.linkedin.com/in/albert-mbago-4b4545292" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.youtube.com/@Afreels" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+    <img src="https://img.shields.io/badge/Youtube-Channel-red?style=for-the-badge&logo=youtube" />
   </a>
   <a href="mailto:albertmbago892@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="https://img.shields.io/badge/Email-Contact-lightgrey?style=for-the-badge&logo=gmail" />
   </a>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+# 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlbertMbago&show_icons=true&theme=radical&hide=prs" alt="Albert's GitHub Stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMbago&layout=compact&theme=radical" alt="Top Languages" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AlbertMbago&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlbertMbago&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </div>
 
 ---
 
-### ✨ Fun Facts
-- 🚴 I believe coding is a marathon — **slow, steady, and meaningful.**
-- 🎯 Favorite Quote: _"Dream big. Start small. Act now."_
-- 🔥 Passionate about **creative problem solving** and **building things that matter**.
+# ✨ Fun Bits
+- 🛠 Constantly polishing code like an artist with a canvas.
+- 🌟 Dreaming big but executing small, consistent steps.
+- 🧠 Exploring how AI will change the future of digital experiences.
+- 🚀 Motto: _"Build what matters. Ship what inspires."_
 
 ---
 
 <br>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+I'm+Albert+Mbago!;Fullstack+Developer+from+Kenya!;Let's+build+something+amazing+🚀;&center=true&width=500&height=45">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&pause=1000&color=00f0ff&center=true&vCenter=true&width=700&lines=Let's+build+the+future+together!;Reach+out+for+tech+magic!+🚀" />
+</p>
